@@ -16,6 +16,7 @@ import org.springframework.util.StringUtils;
 import com.esotericsoftware.reflectasm.MethodAccess;
 
 /**
+ * 性能是spring beanutis.copyProperties的三倍
  * 
  * @author feilix
  *
